@@ -1,4 +1,3 @@
-Sure, here's a sample README.md file for your GitHub repository:
 
 ```markdown
 # Intern Project: Anomaly Detection through Keystroke & Tap Dynamics
@@ -24,4 +23,3 @@ The successful outcome was then presented.
 
 This project is ongoing, and future updates will be committed to this repository as they become available.
 ```
-Please modify it according to your needs. Let me know if you need help with anything else.
