@@ -1,5 +1,4 @@
 
-```markdown
 # Intern Project: Anomaly Detection through Keystroke & Tap Dynamics
 
 This repository contains the code and resources for an anomaly detection project implemented at Krontech. The project focuses on keystroke and tap dynamics, using machine learning algorithms for detection.
@@ -22,4 +21,3 @@ The successful outcome was then presented.
 ## Future Work
 
 This project is ongoing, and future updates will be committed to this repository as they become available.
-```
